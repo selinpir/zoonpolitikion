@@ -1,0 +1,28 @@
+﻿@page "/"
+@* 
+<Alert /> *@
+
+<MyCard Title="Haber Başlığı" Description="Bu bir haber kartıdır!" />
+
+<Alert Message="Bir hata oluştu!" Color="red" />
+
+<Alert Message="İşlem başarılı!" Color="green" />
+
+
+
+<MyButton Label="Kaydet" OnClick="KaydetTiklandi" />
+
+@code {
+    private void KaydetTiklandi()
+    {
+        Console.WriteLine("Kaydet butonuna tıklandı.");
+    }
+}
+
+<InputComponent Label="Adınız" Value="@ad" ValueChanged="@((string val) => ad = val)" />
+
+<p>Girilen ad: @ad</p>
+
+@code {
+    private string ad = "";
+}

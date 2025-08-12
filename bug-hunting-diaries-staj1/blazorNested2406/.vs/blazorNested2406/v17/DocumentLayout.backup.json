@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\blazorNested2406\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0747E67B-1FFD-4685-86B7-354DEE535F31}|blazorNested2406\\blazorNested2406.csproj|d:\\masaustu_yedek\\github\\bug-hunting-diaries\\blazornested2406\\blazornested2406\\components\\pages\\login.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0747E67B-1FFD-4685-86B7-354DEE535F31}|blazorNested2406\\blazorNested2406.csproj|solutionrelative:blazornested2406\\components\\pages\\login.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0747E67B-1FFD-4685-86B7-354DEE535F31}|blazorNested2406\\blazorNested2406.csproj|d:\\masaustu_yedek\\github\\bug-hunting-diaries\\blazornested2406\\blazornested2406\\components\\layout\\baselayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0747E67B-1FFD-4685-86B7-354DEE535F31}|blazorNested2406\\blazorNested2406.csproj|solutionrelative:blazornested2406\\components\\layout\\baselayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0747E67B-1FFD-4685-86B7-354DEE535F31}|blazorNested2406\\blazorNested2406.csproj|d:\\masaustu_yedek\\github\\bug-hunting-diaries\\blazornested2406\\blazornested2406\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0747E67B-1FFD-4685-86B7-354DEE535F31}|blazorNested2406\\blazorNested2406.csproj|solutionrelative:blazornested2406\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0747E67B-1FFD-4685-86B7-354DEE535F31}|blazorNested2406\\blazorNested2406.csproj|d:\\masaustu_yedek\\github\\bug-hunting-diaries\\blazornested2406\\blazornested2406\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0747E67B-1FFD-4685-86B7-354DEE535F31}|blazorNested2406\\blazorNested2406.csproj|solutionrelative:blazornested2406\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseLayout.razor",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\blazorNested2406\\blazorNested2406\\Components\\Layout\\BaseLayout.razor",
+              "RelativeDocumentMoniker": "blazorNested2406\\Components\\Layout\\BaseLayout.razor",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\blazorNested2406\\blazorNested2406\\Components\\Layout\\BaseLayout.razor",
+              "RelativeToolTip": "blazorNested2406\\Components\\Layout\\BaseLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T13:19:42.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\blazorNested2406\\blazorNested2406\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "blazorNested2406\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\blazorNested2406\\blazorNested2406\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "blazorNested2406\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T13:18:34.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\blazorNested2406\\blazorNested2406\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "blazorNested2406\\Components\\Pages\\Login.razor",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\blazorNested2406\\blazorNested2406\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "blazorNested2406\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T13:15:25.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor.css",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\blazorNested2406\\blazorNested2406\\Components\\Pages\\Login.razor.css",
+              "RelativeDocumentMoniker": "blazorNested2406\\Components\\Pages\\Login.razor.css",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\blazorNested2406\\blazorNested2406\\Components\\Pages\\Login.razor.css",
+              "RelativeToolTip": "blazorNested2406\\Components\\Pages\\Login.razor.css",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAEMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-24T13:15:04.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

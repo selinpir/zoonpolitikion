@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\creatingComponent\\creatingComponent\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\creatingComponent.bundle.scp.css",
+      "PackagePath": "staticwebassets\\creatingComponent.fivtkzn7tk.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\creatingComponent\\creatingComponent\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\creatingComponent\\creatingComponent\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\creatingComponent\\creatingComponent\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\creatingComponent\\creatingComponent\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.creatingComponent.props",
+      "PackagePath": "build\\creatingComponent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.creatingComponent.props",
+      "PackagePath": "buildMultiTargeting\\creatingComponent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.creatingComponent.props",
+      "PackagePath": "buildTransitive\\creatingComponent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.creatingComponent.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.creatingComponent.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

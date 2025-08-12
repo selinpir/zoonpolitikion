@@ -1,0 +1,31 @@
+﻿@* Two way binding: ui backend arası data aktarımı *@
+@* one way binding *@
+
+@* <h3 style="@style">Alert</h3>
+<input class="form-control" value="@style" />
+
+@code {
+    private string style = "font-size: 50px; color: red;";
+}
+ *@
+
+@* two way binding *@
+@* <h3 style="@style">Alert</h3>
+
+<input class="form-control" @bind="@style" />
+
+@code {
+private string style = "font-size: 50px; color: red;";
+} *@
+
+<div style="color: white; background-color: @Color; padding: 10px;">
+    @Message
+</div>
+
+@code {
+    [Parameter]
+    public string Message { get; set; }
+
+    [Parameter]
+    public string Color { get; set; } = "red";
+}

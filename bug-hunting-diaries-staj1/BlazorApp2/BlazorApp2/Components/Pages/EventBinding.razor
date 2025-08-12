@@ -1,0 +1,35 @@
+﻿<!-- EventBindingExample.razor -->
+
+<h3>Butona tıklanma sayısı: @clickCount</h3>
+
+<!-- 1. Basit click binding -->
+<button @onclick="IncrementCount">Tıkla</button>
+
+<!-- 2. Olay argümanlı örnek -->
+<button @onclick="HandleMouseEvent">Fareyle Tıkla</button>
+
+<input @onchange="OnInputChanged" placeholder="Bir şey yaz…" />
+
+    @code {
+        private int clickCount = 0;
+
+        // Basit metot: argümansız
+        private void IncrementCount()
+        {
+            clickCount++;
+        }
+
+        // MouseEventArgs kullanarak
+        private void HandleMouseEvent(MouseEventArgs e)
+        {
+            Console.WriteLine($"Tıklama koordinatları: X={e.ClientX}, Y={e.ClientY}");
+            clickCount++;
+        }
+
+        // ChangeEventArgs kullanarak
+        private void OnInputChanged(ChangeEventArgs e)
+        {
+            string newValue = e.Value?.ToString() ?? "";
+            Console.WriteLine($"Yeni metin: {newValue}");
+        }
+}

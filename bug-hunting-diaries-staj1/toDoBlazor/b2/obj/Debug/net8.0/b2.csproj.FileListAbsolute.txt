@@ -1,0 +1,67 @@
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\b2.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\b2.AssemblyInfoInputs.cache
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\b2.AssemblyInfo.cs
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\b2.csproj.CoreCompileInputs.cache
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\b2.MvcApplicationPartsAssemblyInfo.cache
+D:\masaustu_yedek\blazor staj\b2\b2\bin\Debug\net8.0\appsettings.Development.json
+D:\masaustu_yedek\blazor staj\b2\b2\bin\Debug\net8.0\appsettings.json
+D:\masaustu_yedek\blazor staj\b2\b2\bin\Debug\net8.0\b2.staticwebassets.runtime.json
+D:\masaustu_yedek\blazor staj\b2\b2\bin\Debug\net8.0\b2.staticwebassets.endpoints.json
+D:\masaustu_yedek\blazor staj\b2\b2\bin\Debug\net8.0\b2.exe
+D:\masaustu_yedek\blazor staj\b2\b2\bin\Debug\net8.0\b2.deps.json
+D:\masaustu_yedek\blazor staj\b2\b2\bin\Debug\net8.0\b2.runtimeconfig.json
+D:\masaustu_yedek\blazor staj\b2\b2\bin\Debug\net8.0\b2.dll
+D:\masaustu_yedek\blazor staj\b2\b2\bin\Debug\net8.0\b2.pdb
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\scopedcss\bundle\b2.styles.css
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\scopedcss\projectbundle\b2.bundle.scp.css
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\staticwebassets.build.json
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\staticwebassets.development.json
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\staticwebassets\msbuild.b2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\staticwebassets\msbuild.b2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\staticwebassets\msbuild.build.b2.props
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.b2.props
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.b2.props
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\b2.dll
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\refint\b2.dll
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\b2.pdb
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\b2.genruntimeconfig.cache
+D:\masaustu_yedek\blazor staj\b2\b2\obj\Debug\net8.0\ref\b2.dll
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\bin\Debug\net8.0\appsettings.Development.json
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\bin\Debug\net8.0\appsettings.json
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\bin\Debug\net8.0\b2.staticwebassets.endpoints.json
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\bin\Debug\net8.0\b2.staticwebassets.runtime.json
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\bin\Debug\net8.0\b2.exe
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\bin\Debug\net8.0\b2.deps.json
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\bin\Debug\net8.0\b2.runtimeconfig.json
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\bin\Debug\net8.0\b2.dll
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\bin\Debug\net8.0\b2.pdb
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\b2.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\b2.AssemblyInfoInputs.cache
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\b2.AssemblyInfo.cs
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\b2.csproj.CoreCompileInputs.cache
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\b2.MvcApplicationPartsAssemblyInfo.cache
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\b2.sourcelink.json
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\scopedcss\bundle\b2.styles.css
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\scopedcss\projectbundle\b2.bundle.scp.css
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\staticwebassets.build.json
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\staticwebassets.development.json
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\staticwebassets\msbuild.b2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\staticwebassets\msbuild.b2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\staticwebassets\msbuild.build.b2.props
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.b2.props
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.b2.props
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\b2.dll
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\refint\b2.dll
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\b2.pdb
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\b2.genruntimeconfig.cache
+D:\masaustu_yedek\GITHUB\bug-hunting-diaries\toDoBlazor\b2\obj\Debug\net8.0\ref\b2.dll

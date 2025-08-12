@@ -1,0 +1,9 @@
+﻿<button @onclick="OnClick">@Label</button>
+
+@code {
+    [Parameter]
+    public string Label { get; set; } = "Tıkla";
+
+    [Parameter]
+    public EventCallback OnClick { get; set; }
+}

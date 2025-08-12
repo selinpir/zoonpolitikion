@@ -1,0 +1,15 @@
+﻿@namespace BlazorApp2.Components
+
+<div class="firstComponent">
+    <h3>@Title (@Count kez görüntülendi)</h3>
+    <button @onclick="Increment">+</button>
+    <p>Sayacın Değeri: @currentCount</p>
+</div>
+
+@code {
+    [Parameter] public string Title { get; set; } = "";
+    [Parameter] public int Count { get; set; }
+
+    private int currentCount = 0;
+    private void Increment() => currentCount++;
+}

@@ -1,0 +1,50 @@
+# H1 Başlık
+## H2 Başlık
+### H3 Başlık
+#### H4 Başlık
+##### H5 Başlık
+###### H6 Başlık
+
+**Kalın**
+*İtalik*
+~~Üstü Çizili~~
+
+[Link metni](https://github.com)
+
+![Görsel açıklaması](url)
+
+`inline code`
+
+```bash
+# Çok satırlı kod bloğu
+echo "Hello, world!"
+
+
+✅ **Liste (Sıralı ve sırasız)**  
+```markdown
+- Madde 1
+- Madde 2
+  - Alt madde
+
+1. Birinci
+2. İkinci
+3. Üçüncü
+
+> Bu bir alıntıdır.
+
+---
+
+
+
+- [x] Yapıldı
+- [ ] Yapılacak
+
+
+
+| Başlık 1 | Başlık 2 |
+|----------|----------|
+| Satır 1  | Veri 1   |
+| Satır 2  | Veri 2   |
+
+
+

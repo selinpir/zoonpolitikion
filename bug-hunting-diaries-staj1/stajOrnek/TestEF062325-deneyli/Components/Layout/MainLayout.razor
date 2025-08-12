@@ -1,0 +1,56 @@
+﻿@using Microsoft.AspNetCore.Authorization
+@inherits LayoutComponentBase
+@attribute [Authorize]
+
+@* Required *@
+<MudThemeProvider />
+<MudPopoverProvider />
+
+@* Needed for dialogs *@
+<MudDialogProvider />
+
+@* Needed for snackbars *@
+<MudSnackbarProvider />
+<AuthorizeView>
+    <Authorized>
+<MudLayout>
+    <MudAppBar Elevation="1">
+        <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@ToggleDrawer" />
+        <MudSpacer />
+        <MudIconButton Icon="@Icons.Custom.Brands.GitHub" Color="Color.Inherit" Href="https://datakod.com" Target="_blank" />
+    </MudAppBar>
+    <MudDrawer @bind-Open="@_open" Elevation="1">
+        <MudDrawerHeader>
+            <MudText Typo="Typo.h6">My App</MudText>
+        </MudDrawerHeader>
+        <MudNavMenu>
+            <MudNavLink Match="NavLinkMatch.All">Store</MudNavLink>
+            <MudNavLink Match="NavLinkMatch.All">Library</MudNavLink>
+            <MudNavLink Match="NavLinkMatch.All">Community</MudNavLink>
+        </MudNavMenu>
+    </MudDrawer>
+    <MudMainContent Class="pt-16 px-16">
+        <MudContainer Class="mt-6">
+           @Body
+        </MudContainer>
+    </MudMainContent>
+</MudLayout>
+  </Authorized>
+        <NotAuthorized>
+            <TestEF062325.Components.Account.Shared.RedirectToLogin></TestEF062325.Components.Account.Shared.RedirectToLogin>
+ </NotAuthorized>
+ </AuthorizeView>
+
+ @code{
+    private bool _open = false;
+    protected override void OnInitialized()
+    {
+        
+        
+        
+    }
+    private void ToggleDrawer()
+    {
+        _open = !_open;
+    }
+}

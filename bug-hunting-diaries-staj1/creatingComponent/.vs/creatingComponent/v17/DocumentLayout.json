@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\creatingComponent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{373D6AFC-21CE-4DB5-B0E4-7C7F34F2EA51}|creatingComponent\\creatingComponent.csproj|d:\\masaustu_yedek\\github\\bug-hunting-diaries\\creatingcomponent\\creatingcomponent\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{373D6AFC-21CE-4DB5-B0E4-7C7F34F2EA51}|creatingComponent\\creatingComponent.csproj|solutionrelative:creatingcomponent\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373D6AFC-21CE-4DB5-B0E4-7C7F34F2EA51}|creatingComponent\\creatingComponent.csproj|d:\\masaustu_yedek\\github\\bug-hunting-diaries\\creatingcomponent\\creatingcomponent\\components\\pages\\mybutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{373D6AFC-21CE-4DB5-B0E4-7C7F34F2EA51}|creatingComponent\\creatingComponent.csproj|solutionrelative:creatingcomponent\\components\\pages\\mybutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373D6AFC-21CE-4DB5-B0E4-7C7F34F2EA51}|creatingComponent\\creatingComponent.csproj|d:\\masaustu_yedek\\github\\bug-hunting-diaries\\creatingcomponent\\creatingcomponent\\components\\pages\\inputcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{373D6AFC-21CE-4DB5-B0E4-7C7F34F2EA51}|creatingComponent\\creatingComponent.csproj|solutionrelative:creatingcomponent\\components\\pages\\inputcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyButton.razor",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\creatingComponent\\creatingComponent\\Components\\Pages\\MyButton.razor",
+              "RelativeDocumentMoniker": "creatingComponent\\Components\\Pages\\MyButton.razor",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\creatingComponent\\creatingComponent\\Components\\Pages\\MyButton.razor",
+              "RelativeToolTip": "creatingComponent\\Components\\Pages\\MyButton.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T15:25:48.898Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputComponent.razor",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\creatingComponent\\creatingComponent\\Components\\Pages\\InputComponent.razor",
+              "RelativeDocumentMoniker": "creatingComponent\\Components\\Pages\\InputComponent.razor",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\creatingComponent\\creatingComponent\\Components\\Pages\\InputComponent.razor",
+              "RelativeToolTip": "creatingComponent\\Components\\Pages\\InputComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T15:28:25.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\creatingComponent\\creatingComponent\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "creatingComponent\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\bug-hunting-diaries\\creatingComponent\\creatingComponent\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "creatingComponent\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T14:15:44.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
