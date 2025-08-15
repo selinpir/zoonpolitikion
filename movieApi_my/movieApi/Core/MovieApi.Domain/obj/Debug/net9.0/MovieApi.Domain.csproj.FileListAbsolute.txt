@@ -1,0 +1,12 @@
+D:\githubD\zoonpolitikion\movieApi_my\movieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.deps.json
+D:\githubD\zoonpolitikion\movieApi_my\movieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.dll
+D:\githubD\zoonpolitikion\movieApi_my\movieApi\Core\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.pdb
+D:\githubD\zoonpolitikion\movieApi_my\movieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\githubD\zoonpolitikion\movieApi_my\movieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfoInputs.cache
+D:\githubD\zoonpolitikion\movieApi_my\movieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfo.cs
+D:\githubD\zoonpolitikion\movieApi_my\movieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.csproj.CoreCompileInputs.cache
+D:\githubD\zoonpolitikion\movieApi_my\movieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.sourcelink.json
+D:\githubD\zoonpolitikion\movieApi_my\movieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.dll
+D:\githubD\zoonpolitikion\movieApi_my\movieApi\Core\MovieApi.Domain\obj\Debug\net9.0\refint\MovieApi.Domain.dll
+D:\githubD\zoonpolitikion\movieApi_my\movieApi\Core\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.pdb
+D:\githubD\zoonpolitikion\movieApi_my\movieApi\Core\MovieApi.Domain\obj\Debug\net9.0\ref\MovieApi.Domain.dll
