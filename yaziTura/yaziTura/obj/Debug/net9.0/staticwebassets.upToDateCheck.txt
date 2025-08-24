@@ -46,10 +46,6 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-wwwroot\sample-data\weather.json
-wwwroot\yaziTura\background\forest.jpg
-wwwroot\yaziTura\background\izmir-clock-tower.jpg
-wwwroot\yaziTura\background\space.jpg
 wwwroot\yaziTura\fk\tura.png
 wwwroot\yaziTura\fk\yazi.png
 wwwroot\yaziTura\fr2\tura.png
@@ -106,4 +102,3 @@ D:\githubD\zoonpolitikion\yaziTura\yaziTura\wwwroot\lib\bootstrap\dist\js\bootst
 D:\githubD\zoonpolitikion\yaziTura\yaziTura\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 D:\githubD\zoonpolitikion\yaziTura\yaziTura\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 D:\githubD\zoonpolitikion\yaziTura\yaziTura\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-D:\githubD\zoonpolitikion\yaziTura\yaziTura\wwwroot\sample-data\weather.json

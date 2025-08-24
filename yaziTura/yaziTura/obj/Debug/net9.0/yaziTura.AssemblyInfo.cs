@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yaziTura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8360b612794ab7ebda1d49f39a2921a1befa39c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c71e650b86eebf7cc15e5d96de79aa871a27dfb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("yaziTura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yaziTura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

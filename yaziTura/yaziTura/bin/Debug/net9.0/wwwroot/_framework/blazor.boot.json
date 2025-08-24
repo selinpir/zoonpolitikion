@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "yaziTura",
   "resources": {
-    "hash": "sha256-dvTxnYVwynnZgitQaM4IcKxG/Vhrbeo8tjM0Sv2tYoI=",
+    "hash": "sha256-t1Z3FKglf7/3IvtfNiCeUXNykaX/v5CxcYme135eLYY=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.tnyc7xpluy.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.t32damlu4o.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -204,8 +204,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "yaziTura.rc156nbxld.wasm": "yaziTura.wasm",
-      "yaziTura.hg8a7x8yb0.pdb": "yaziTura.pdb"
+      "yaziTura.kgqft31whu.wasm": "yaziTura.wasm",
+      "yaziTura.l37l1etiid.pdb": "yaziTura.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.50iqa8w3ys.js": "sha256-pQdXuxfVeqYHOwd5HUM2ERd7OnXirj9JTF37b6OdTAc="
@@ -418,10 +418,10 @@
       "WindowsBase.361km0836k.wasm": "sha256-FacUCEIJYTnbOWgX/R9QP2QnurqRZwRIkDAH0N9z69s=",
       "mscorlib.qiu3j3msqk.wasm": "sha256-QvztpxTOEw4aMIl7zP3QtsPLNv/IWaK5wq22J4ReGrA=",
       "netstandard.lp03u0xxi4.wasm": "sha256-WVQsxULiAiEbyXLKolS7txnWVT82SsvsuMe4jJ+SqqI=",
-      "yaziTura.rc156nbxld.wasm": "sha256-Gwj3LPRyCCpkpuYqPzLyxVCDMcM0Gk3kumZfEQECMQM="
+      "yaziTura.kgqft31whu.wasm": "sha256-TJPdT5XJnQrh6HsHTibMc/z3OY7fIjpd/N5QmoYkR/s="
     },
     "pdb": {
-      "yaziTura.hg8a7x8yb0.pdb": "sha256-UdQhy2d5t8or5QqjpARCPBMThn2NLxywC2A1i7EB5WY="
+      "yaziTura.l37l1etiid.pdb": "sha256-z/+mw+XWmx/61OcqvRMUPODCIeqo9S2fwIF2IzA4o7c="
     }
   },
   "cacheBootResources": true,

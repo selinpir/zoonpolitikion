@@ -5,12 +5,7 @@
 @inject ISnackbar Snackbar
 @inject NavigationManager NavManager
 
-
-
 <div class="flip-container">
-
-    <h3 class="text-xl font-bold mb-4">Yazı Tura Oyunu</h3>
-
     <h3 class="text-xl font-bold mb-4">Ne yapacağına karar veremiyor musun ?</h3>
     <div class="mb-4">
         <InputRadioGroup @bind-Value="KullaniciTahmin">
@@ -19,12 +14,10 @@
         </InputRadioGroup>
     </div>
 
-
     <div class="mb-4 flex flex-col gap-2">
         <input type="text" placeholder="Yazı için içerik" @bind="KullaniciYaziText" />
         <input type="text" placeholder="Tura için içerik" @bind="KullaniciTuraText" />
     </div>
-
 
     <div class="flip-card @(IsFlipping ? "flipping" : "")">
         <div class="flip-card-inner @(IsFlipping ? "animate" : "")">
@@ -37,23 +30,21 @@
         </div>
     </div>
 
-
-
     <div class="mt-4 text-center">
-        @if (ResultShown)
+        @if (SonucGoster)
         {
             <div class="result-grid">
                 <div class="label">Sonuç:</div>
-                <div class="value">@(CurrentSide == ParaTarafi.Yazi ? "Yazı" : "Tura")</div>
+                <div class="value">@(defaultYazi == ParaTarafi.Yazi ? "Yazı" : "Tura")</div>
 
                 <div class="label">İçerik:</div>
-                <div class="value">@(CurrentSide == ParaTarafi.Yazi ? KullaniciYaziText : KullaniciTuraText)</div>
+                <div class="value">@(defaultYazi == ParaTarafi.Yazi ? KullaniciYaziText : KullaniciTuraText)</div>
 
                 <div class="label">Tahminin:</div>
                 <div class="value">@(KullaniciTahmin.ToString() ?? "-")</div>
 
                 <div class="label">Durum:</div>
-                <div class="value">@(KullaniciTahmin == CurrentSide ? "Doğru bildin" : "Yanlış tahmin")</div>
+                <div class="value">@(KullaniciTahmin == defaultYazi ? "Doğru tahmin" : "Yanlış tahmin")</div>
 
                 <div class="label">Toplam Yazı:</div>
                 <div class="value">@(@YazıSayısı.ToString() ?? "-")</div>
@@ -83,9 +74,9 @@
     [Parameter] public string frontImage { get; set; } = "/images/yazi.png";
     [Parameter] public string backImage { get; set; } = "/images/tura.png";
 
-    private ParaTarafi CurrentSide = ParaTarafi.Yazi;
+    private ParaTarafi defaultYazi = ParaTarafi.Yazi;
     private bool IsFlipping = false;
-    private bool ResultShown = false;
+    private bool SonucGoster = false;
 
     private int YazıSayısı = 0;
     private int TuraSayısı = 0;
@@ -102,24 +93,20 @@
 
     private async Task OnClickAt()
     {
-        ResultShown = false;
+        SonucGoster = false;
         IsFlipping = true;
         StateHasChanged();
 
-
         await Task.Delay(1500);
 
-        CurrentSide = (ParaTarafi)RastgeleService.At();
+        defaultYazi = (ParaTarafi)RastgeleService.At();
         IsFlipping = false;
-        ResultShown = true;
+        SonucGoster = true;
 
-
-        if (CurrentSide == ParaTarafi.Yazi)
+        if (defaultYazi == ParaTarafi.Yazi)
             YazıSayısı++;
         else
             TuraSayısı++;
-
-
         StateHasChanged();
     }
 

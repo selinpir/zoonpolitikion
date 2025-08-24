@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\githubD\\zoonpolitikion\\yaziTura\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9985033D-1D63-46D3-9867-89425536A24F}|yaziTura\\yaziTura.csproj|d:\\githubd\\zoonpolitikion\\yazitura\\yazitura\\pages\\404.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9985033D-1D63-46D3-9867-89425536A24F}|yaziTura\\yaziTura.csproj|solutionrelative:yazitura\\pages\\404.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9985033D-1D63-46D3-9867-89425536A24F}|yaziTura\\yaziTura.csproj|d:\\githubd\\zoonpolitikion\\yazitura\\yazitura\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9985033D-1D63-46D3-9867-89425536A24F}|yaziTura\\yaziTura.csproj|solutionrelative:yazitura\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9985033D-1D63-46D3-9867-89425536A24F}|yaziTura\\yaziTura.csproj|d:\\githubd\\zoonpolitikion\\yazitura\\yazitura\\pages\\shared\\flipcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9985033D-1D63-46D3-9867-89425536A24F}|yaziTura\\yaziTura.csproj|solutionrelative:yazitura\\pages\\shared\\flipcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9985033D-1D63-46D3-9867-89425536A24F}|yaziTura\\yaziTura.csproj|d:\\githubd\\zoonpolitikion\\yazitura\\yazitura\\services\\rastgeleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9985033D-1D63-46D3-9867-89425536A24F}|yaziTura\\yaziTura.csproj|solutionrelative:yazitura\\services\\rastgeleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9985033D-1D63-46D3-9867-89425536A24F}|yaziTura\\yaziTura.csproj|d:\\githubd\\zoonpolitikion\\yazitura\\yazitura\\pages\\404.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9985033D-1D63-46D3-9867-89425536A24F}|yaziTura\\yaziTura.csproj|solutionrelative:yazitura\\pages\\404.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 189,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FlipComponent.razor",
               "DocumentMoniker": "D:\\githubD\\zoonpolitikion\\yaziTura\\yaziTura\\Pages\\Shared\\FlipComponent.razor",
               "RelativeDocumentMoniker": "yaziTura\\Pages\\Shared\\FlipComponent.razor",
-              "ToolTip": "D:\\githubD\\zoonpolitikion\\yaziTura\\yaziTura\\Pages\\Shared\\FlipComponent.razor",
-              "RelativeToolTip": "yaziTura\\Pages\\Shared\\FlipComponent.razor",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\githubD\\zoonpolitikion\\yaziTura\\yaziTura\\Pages\\Shared\\FlipComponent.razor*",
+              "RelativeToolTip": "yaziTura\\Pages\\Shared\\FlipComponent.razor*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAtwE0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-21T22:06:55.191Z",
               "IsPinned": true,
@@ -44,42 +40,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "404.razor",
-              "DocumentMoniker": "D:\\githubD\\zoonpolitikion\\yaziTura\\yaziTura\\Pages\\404.razor",
-              "RelativeDocumentMoniker": "yaziTura\\Pages\\404.razor",
-              "ToolTip": "D:\\githubD\\zoonpolitikion\\yaziTura\\yaziTura\\Pages\\404.razor*",
-              "RelativeToolTip": "yaziTura\\Pages\\404.razor*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-24T00:35:45.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "app.css",
-              "DocumentMoniker": "D:\\githubD\\zoonpolitikion\\yaziTura\\yaziTura\\wwwroot\\css\\app.css",
-              "RelativeDocumentMoniker": "yaziTura\\wwwroot\\css\\app.css",
-              "ToolTip": "D:\\githubD\\zoonpolitikion\\yaziTura\\yaziTura\\wwwroot\\css\\app.css",
-              "RelativeToolTip": "yaziTura\\wwwroot\\css\\app.css",
-              "ViewState": "AgIAADsBAAAAAAAAAAAAAEYBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-24T00:25:45.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "RastgeleService.cs",
               "DocumentMoniker": "D:\\githubD\\zoonpolitikion\\yaziTura\\yaziTura\\Services\\RastgeleService.cs",
               "RelativeDocumentMoniker": "yaziTura\\Services\\RastgeleService.cs",
               "ToolTip": "D:\\githubD\\zoonpolitikion\\yaziTura\\yaziTura\\Services\\RastgeleService.cs",
               "RelativeToolTip": "yaziTura\\Services\\RastgeleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T00:10:29.061Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "404.razor",
+              "DocumentMoniker": "D:\\githubD\\zoonpolitikion\\yaziTura\\yaziTura\\Pages\\404.razor",
+              "RelativeDocumentMoniker": "yaziTura\\Pages\\404.razor",
+              "ToolTip": "D:\\githubD\\zoonpolitikion\\yaziTura\\yaziTura\\Pages\\404.razor",
+              "RelativeToolTip": "yaziTura\\Pages\\404.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-24T00:35:45.507Z"
             }
           ]
         }
