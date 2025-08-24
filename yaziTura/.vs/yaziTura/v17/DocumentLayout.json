@@ -35,8 +35,7 @@
               "ViewState": "AgIAAEkAAAAAAAAAAAAtwE0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-21T22:06:55.191Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -48,8 +47,7 @@
               "RelativeToolTip": "yaziTura\\Pages\\Fk.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-24T21:42:00.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T21:42:00.138Z"
             },
             {
               "$type": "Document",
@@ -59,7 +57,7 @@
               "RelativeDocumentMoniker": "yaziTura\\Services\\RastgeleService.cs",
               "ToolTip": "D:\\githubD\\zoonpolitikion\\yaziTura\\yaziTura\\Services\\RastgeleService.cs",
               "RelativeToolTip": "yaziTura\\Services\\RastgeleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T00:10:29.061Z",
               "EditorCaption": ""
